@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu WEBSITE</title>
+</head>
+<body>
+    <center><h1> Bem-Vindo ao meu Website! </h1></center>
+    <hr>
+    <h2><a href"./sobre.html"> /a></h2>
+    <center> <img src="https://images.pexels.com/photos/762020/pexels-photo-762020.jpeg" height="400" alt="foto 3x4"></center>
+
+    <center> 
+        <a href="https://www.google.com"> não meche </a> <br>
+    </center>
+
+</body>
+</html>
