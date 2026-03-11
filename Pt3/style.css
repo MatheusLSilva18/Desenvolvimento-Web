@@ -1,0 +1,25 @@
+#titulo1 {
+    background-color: whitesmoke;
+    color: darkseagreen;
+}
+
+#titulo2 {
+    background-color: yellow;
+    color: black;
+}
+
+#p1 {
+    color: coral;
+}
+
+#p2 {
+    font-size: 900%;
+}
+
+#p3 {
+    font-family: 'Caveat', cursive;
+}
+
+#p4 {
+    text-align: right;
+}
