@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+}
+
+.retangulo1 {
+    height: 750px;
+    width: 460px;
+    top: 20px;
+    left: 20px;
+    background-color: #002654;
+    position: absolute;
+}
+.retangulo2 {
+    height: 750px;
+    width: 460px;
+    background-color: #ffffff;
+    position: relative;
+    left: 460px;
+}
+
+.retangulo3 {
+    height: 750px;
+    width: 460px;
+    background-color: #ED2939;
+    position: relative;
+    left: 460px;
+}
