@@ -1,0 +1,28 @@
+#dev {
+    color: orange;
+}
+
+#creative {
+    color: black;
+}
+
+.container {
+    display: flex;
+    gap: 40px;
+    margin-top: 40px;
+}
+
+.construction, .beauty {
+    display: flex;
+    width: 400px;
+}
+
+.construction img, .beauty img {
+    margin-right: 10px;
+}
+
+.construction p, .beauty p {
+    text-align: left;
+    font-size: 14px;
+    margin: 0;
+}
